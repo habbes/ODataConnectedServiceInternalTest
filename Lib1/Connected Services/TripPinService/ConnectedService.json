@@ -1,0 +1,27 @@
+﻿{
+  "ProviderId": "Microsoft.OData.ConnectedService",
+  "Version": "16.4.0.0",
+  "GettingStartedDocument": {
+    "Uri": "http://odata.github.io/odata.net/"
+  },
+  "ExtendedData": {
+    "EnableNamingAlias": false,
+    "IgnoreUnexpectedElementsAndAttributes": false,
+    "IncludeT4File": false,
+    "ServiceName": "TripPinService",
+    "Endpoint": "https://services.odata.org/TripPinRESTierService/(S(gabb3bb1u2dnbb1pot5wgyyx))/$metadata",
+    "EdmxVersion": {
+      "Major": 4,
+      "Minor": 0,
+      "Build": 0,
+      "Revision": 0,
+      "MajorRevision": 0,
+      "MinorRevision": 0
+    },
+    "GeneratedFileNamePrefix": "Reference",
+    "UseNameSpacePrefix": false,
+    "NamespacePrefix": null,
+    "UseDataServiceCollection": true,
+    "MakeTypesInternal": true
+  }
+}
